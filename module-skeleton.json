@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-data-operations-react-native",
+  "capabilityKey": "liberusoftware/module-crm-data-operations",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-data-operations-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/data-operations.md",
+  "presentationPlan": "projects/crm/react-native/data-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
